@@ -1,6 +1,14 @@
 # EXPO2025
 Data ref for expo 2025
-x:
+
+# Ticket
+> https://quick.pia.jp/expo2025/
+> https://ticket.expo2025.or.jp/zh-tw/purchase_menu/
+
+### Bus ticket 到底甚麼ㄌㄐ網站
+> https://app.kansai-maas.jp/tickets?area_id=9200027&category_id=8200010
+
+# x:
 tag: EXPO2025
 > https://x.com/hashtag/EXPO2025?src=hashtag_click
 tag: 大阪関西万博
