@@ -3,6 +3,7 @@ Data ref for expo 2025
 
 # Ticket
 > https://quick.pia.jp/expo2025/
+
 > https://ticket.expo2025.or.jp/zh-tw/purchase_menu/
 
 ### Bus ticket 到底甚麼ㄌㄐ網站
@@ -11,8 +12,10 @@ Data ref for expo 2025
 # x:
 tag: EXPO2025
 > https://x.com/hashtag/EXPO2025?src=hashtag_click
+---
 tag: 大阪関西万博
 > https://x.com/hashtag/%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A?src=hashtag_click
+---
 ref:
 > https://www.facebook.com/share/p/16nv3H5d8R/
 
