@@ -16,7 +16,7 @@ tag: EXPO2025
 tag: 大阪関西万博
 > https://x.com/hashtag/%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A?src=hashtag_click
 ---
-ref:
+ref(主要參考）：
 > https://www.facebook.com/share/p/16nv3H5d8R/
 
 # MAP
