@@ -34,6 +34,10 @@ ref(主要參考）：
 
 # 義大利
 > https://www.eventbrite.it/e/book-your-fast-track-entry-to-the-italy-pavilion-tickets-1247015881069
+>
+> https://www.eventbrite.it/d/japan--%C5%8Dsaka-shi/expo2025/
+> 義大利館 預約先用這邊搜找好自己方便的時間另外預約
+> 買萬博門票 > 確定入場時間 > 到這邊找他有開放的時間搶 好像只開放隔一天
 
 # 攻略
 > https://docs.google.com/spreadsheets/d/1ifMDD5ftr3DIfakfye507_1DgvtLzLZlkoBPjKJv-Bs/edit?usp=sharing
