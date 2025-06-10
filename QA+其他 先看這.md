@@ -1,11 +1,16 @@
 
 
 新增超超猛推薦館：
-いのちの未来（石黒 浩）Future of life,
-PASONA NATUREVERSE,
+いのちの未来（石黒 浩）Future of life
+
+PASONA NATUREVERSE
+
 大阪ヘルスケアパビリオン大阪健康館(含Reborn to 2050)
+
 住友館 sumitomo
+
 カーボンリサイクルファクトリー(RITE)
+
 世博攻略整理表（實用）：[https://lihi1.me/kRQP7]
 世博常見Q&A（建議服用）：[https://lihi1.me/WMGci]
 世博全攻略資料夾（更多詳情）：[https://lihi1.me/OmsRH]
@@ -42,7 +47,7 @@ Kura露司司事先预约·或者運驾好當天也能快速入場)
 # QA
 
 ## 怎麼預約
-預約通通都在官網！不要再問是不是用APP
+預約通通都在官網不用APP
 建議用手機內建Google瀏覽器，綁Google帳號 臉部識別登入；可以避免打驗證碼打到生氣。
 2個月-預約一個
 7日前-預約一個
